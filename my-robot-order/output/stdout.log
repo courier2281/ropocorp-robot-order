@@ -1,0 +1,11 @@
+
+Collecting tasks from: tasks.py
+=================== Running: [96morder_robots_from_RobotSpareBin[0m ===================
+<bound method Locator.inner_text of <Locator frame=<Frame name= url='https://robotsparebinindustries.com/#/robot-order'> selector='.alert'>>
+<bound method Locator.inner_text of <Locator frame=<Frame name= url='https://robotsparebinindustries.com/#/robot-order'> selector='.alert'>>
+<bound method Locator.inner_text of <Locator frame=<Frame name= url='https://robotsparebinindustries.com/#/robot-order'> selector='.alert'>>
+<bound method Locator.inner_text of <Locator frame=<Frame name= url='https://robotsparebinindustries.com/#/robot-order'> selector='.alert'>>
+<bound method Locator.inner_text of <Locator frame=<Frame name= url='https://robotsparebinindustries.com/#/robot-order'> selector='.alert'>>
+[96morder_robots_from_RobotSpareBin[0m status: PASS
+================================================================================
+Robocorp Log (html): /Users/johanna/Library/CloudStorage/GoogleDrive-johanna@adealistic.com/Oma Drive/Visual Studio Workspace/my-robot-order/output/log.html
